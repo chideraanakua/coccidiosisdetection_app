@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095618682302",
+    "project_id": "coccidiosis-diagnostic-system",
+    "storage_bucket": "coccidiosis-diagnostic-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095618682302:android:532d703ea826e8e18e2def",
+        "android_client_info": {
+          "package_name": "com.example.coccidiosisdetection_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095618682302-kltnq1vst0ugqdktffsvpunn29p6crgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppYguymKjr7W4v9ACQ3dmAIX37TUp0OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095618682302-kltnq1vst0ugqdktffsvpunn29p6crgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
